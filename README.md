@@ -5,7 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/mission-increase_knowledge_capacity_through_ai-purple)
 
 <br />
-![GitHub top language](https://img.shields.io/github/languages/top/jonasplima/OpenMindLLM)
+
+![GitHub top language](https://img.shields.io/github/languages/top/jonasplima/OpenMindLLM) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jonasplima/OpenMindLLM)
 
 <p class="align center">
